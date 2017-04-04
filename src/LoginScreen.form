@@ -107,6 +107,9 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="Create New Account"/>
       </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jButton2MouseClicked"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel3">
       <Properties>
@@ -115,6 +118,9 @@
         </Property>
         <Property name="text" type="java.lang.String" value="I forgot my password"/>
       </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel3MouseClicked"/>
+      </Events>
     </Component>
   </SubComponents>
 </Form>

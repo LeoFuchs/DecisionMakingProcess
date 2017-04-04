@@ -15,6 +15,9 @@ public class ForgotPassword extends javax.swing.JFrame {
      */
     public ForgotPassword() {
         initComponents();
+        //Não deixa fazer alterações no tamanho do formulário
+        setResizable(false);
+        //Faz com que o formulário inicialize no centro da tela
         setLocationRelativeTo(null);
     }
 
@@ -115,7 +118,7 @@ public class ForgotPassword extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton2MouseClicked
-        // Fechar essa janela e voltar ao login
+        ForgotPassword.this.dispose();
     }//GEN-LAST:event_jButton2MouseClicked
 
     /**
