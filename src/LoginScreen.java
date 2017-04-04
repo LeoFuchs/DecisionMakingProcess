@@ -129,7 +129,7 @@ public class LoginScreen extends javax.swing.JFrame {
     private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MouseClicked
         
         if((form_login.getText().isEmpty()) || (form_password.getText().isEmpty())){
-            JOptionPane.showMessageDialog(null, "Complete all fields!");
+            JOptionPane.showMessageDialog(null, "Complete all the fields!");
         }
         
     }//GEN-LAST:event_jButton1MouseClicked
