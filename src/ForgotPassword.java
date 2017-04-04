@@ -54,6 +54,11 @@ public class ForgotPassword extends javax.swing.JFrame {
         jLabel2.setText("Confirm New Password:");
 
         jButton2.setText("Cancel");
+        jButton2.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jButton2MouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -108,6 +113,10 @@ public class ForgotPassword extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    private void jButton2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton2MouseClicked
+        // Fechar essa janela e voltar ao login
+    }//GEN-LAST:event_jButton2MouseClicked
 
     /**
      * @param args the command line arguments
