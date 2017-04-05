@@ -1,21 +1,11 @@
+package br.ufms.facom.sp.view;
 
+
+import br.ufms.facom.sp.view.ForgotPassword;
 import javax.swing.JOptionPane;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author estagiario32252
- */
 public class LoginScreen extends javax.swing.JFrame {
 
-    /**
-     * Creates new form LoginScreen
-     */
     public LoginScreen() {
         initComponents();
         //Não deixa fazer alterações no tamanho do formulário
