@@ -1,9 +1,9 @@
 <h1 align="center">
-    Ferramenta para Auxiliar o Processo de Tomada de Decisão
+    Auxílio ao Processo de Tomada de Decisão
 </h1>
 
 <h2 align="center">
-    Desenvolvido durante o meu trabalho de conclusão de curso na UFMS.
+    Desenvolvido durante o meu Trabalho de Conclusão de Curso (TCC).
 </h2>
 
 <p align="center">
