@@ -10,7 +10,6 @@
     <img alt="Repository Size" src="https://img.shields.io/github/repo-size/leofuchs/DecisionMakingProcess">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/leofuchs/DecisionMakingProcess">
     <img alt="Made By" src="https://img.shields.io/badge/Made%20By-Leonardo%20Fuchs-orange">
-    <img alt="License" src="https://img.shields.io/github/license/leofuchs/DecisionMakingProcess">
 </p>
 
 ### Resumo
